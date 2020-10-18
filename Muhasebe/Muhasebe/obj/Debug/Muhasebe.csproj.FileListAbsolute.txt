@@ -1,0 +1,11 @@
+C:\Users\suley\source\repos\Muhasebe\Muhasebe\bin\Debug\Muhasebe.exe.config
+C:\Users\suley\source\repos\Muhasebe\Muhasebe\bin\Debug\Muhasebe.exe
+C:\Users\suley\source\repos\Muhasebe\Muhasebe\bin\Debug\Muhasebe.pdb
+C:\Users\suley\source\repos\Muhasebe\Muhasebe\obj\Debug\Muhasebe.csprojAssemblyReference.cache
+C:\Users\suley\source\repos\Muhasebe\Muhasebe\obj\Debug\Muhasebe.Form1.resources
+C:\Users\suley\source\repos\Muhasebe\Muhasebe\obj\Debug\Muhasebe.Properties.Resources.resources
+C:\Users\suley\source\repos\Muhasebe\Muhasebe\obj\Debug\Muhasebe.csproj.GenerateResource.cache
+C:\Users\suley\source\repos\Muhasebe\Muhasebe\obj\Debug\Muhasebe.csproj.CoreCompileInputs.cache
+C:\Users\suley\source\repos\Muhasebe\Muhasebe\obj\Debug\Muhasebe.exe
+C:\Users\suley\source\repos\Muhasebe\Muhasebe\obj\Debug\Muhasebe.pdb
+C:\Users\suley\source\repos\Muhasebe\Muhasebe\obj\Debug\Muhasebe.Form2.resources
