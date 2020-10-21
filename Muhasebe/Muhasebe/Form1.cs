@@ -26,7 +26,7 @@ namespace Muhasebe
             
 
         }
-        Form2 frm = new Form2();
+        
         public void LoadProducts()
         {
             dgwProducts.DataSource = _productDal.GetAll();
@@ -191,6 +191,7 @@ namespace Muhasebe
 
         private void button1_Click(object sender, EventArgs e)
         {
+            Form2 frm = new Form2();
             frm.Show();
         }
     }
