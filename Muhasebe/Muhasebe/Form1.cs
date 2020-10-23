@@ -33,9 +33,7 @@ namespace Muhasebe
             dgwCerezs.DataSource = _cerezDal.GetAllCerez();
             dgwGıdas.DataSource = _gıdaDal.GetAllGıda();
            
-            frm.dgw_Sigaralar.DataSource = _productDal.GetAll();
-            frm.dgw_Çerezler.DataSource = _cerezDal.GetAllCerez();
-            frm.dgw_Gıdalar.DataSource = _gıdaDal.GetAllGıda();
+           
 
         }
         
@@ -192,6 +190,9 @@ namespace Muhasebe
         private void button1_Click(object sender, EventArgs e)
         {
             Form2 frm = new Form2();
+             frm.dgw_Sigaralar.DataSource = _productDal.GetAll();
+            frm.dgw_Çerezler.DataSource = _cerezDal.GetAllCerez();
+            frm.dgw_Gıdalar.DataSource = _gıdaDal.GetAllGıda();
             frm.Show();
         }
     }
